@@ -17,7 +17,7 @@ When correlating thread dumps and usages, you can simply use the Thread ID value
 
 ### SAMPLE THREAD USAGE
 ```
-   Thread ID          CPU Usage (%)          Thread Name
+   Thread ID          CPU Usage(%)          Thread Name
 0x000001505c8cae60          3.19          main
 0x0000015079af9d00          0.00          Reference Handler
 0x0000015079afaa90          0.00          Finalizer
