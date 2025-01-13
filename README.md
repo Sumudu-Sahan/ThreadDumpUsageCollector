@@ -8,7 +8,7 @@ Thank you for using the ThreadDumpUsageCollector to capture thread dumps and usa
 java -jar ThreadDumpUsageCollector-1.0-jar-with-dependencies.jar <JVM_PID> <interval> <num_dumps> <output_directory>
 ```
 
-###Interval Units
+### Interval Units
 s - Seconds
 m - Minutes
 h - Hours
