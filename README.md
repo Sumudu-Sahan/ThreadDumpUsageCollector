@@ -9,10 +9,10 @@ java -jar ThreadDumpUsageCollector-1.0-jar-with-dependencies.jar <JVM_PID> <inte
 ```
 
 ### Interval Units
-s - Seconds
-m - Minutes
-h - Hours
-d - Days
+- s - Seconds
+- m - Minutes
+- h - Hours
+- d - Days
 
 ### EXAMPLE
 ```bash
